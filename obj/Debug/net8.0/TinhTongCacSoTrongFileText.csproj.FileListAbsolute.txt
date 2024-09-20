@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\bin\Debug\net8.0\TinhTongCacSoTrongFileText.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\bin\Debug\net8.0\TinhTongCacSoTrongFileText.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\bin\Debug\net8.0\TinhTongCacSoTrongFileText.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\bin\Debug\net8.0\TinhTongCacSoTrongFileText.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\bin\Debug\net8.0\TinhTongCacSoTrongFileText.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\refint\TinhTongCacSoTrongFileText.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\TinhTongCacSoTrongFileText.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TinhTongCacSoTrongFileText\obj\Debug\net8.0\ref\TinhTongCacSoTrongFileText.dll
